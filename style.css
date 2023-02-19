@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(70, 219, 70);
+}
+
+#title{
+    padding: 5px;
+    line-height: 1;
+    width:100%;
+    background-color: white;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 38px;
+    height: 60px;
+}
+
+.ak{
+    font-family: 'Nova Cut', cursive;
+}
+
+#googlelens{
+    background-color: rgb(234, 234, 67);
+    text-align:center;
+    width:250px;
+    height: 35px;
+}
+
+#mobilenet{
+    background-color: rgb(26, 170, 189);
+    text-align:center;
+    width:220px;
+    height: 35px;
+}
+
+#vs{
+    color: red;
+}
+
+.xr{
+    height: 300px;
+    width: 200px;
+}
